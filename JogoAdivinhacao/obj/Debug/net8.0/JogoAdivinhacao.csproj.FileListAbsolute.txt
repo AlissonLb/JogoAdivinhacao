@@ -1,0 +1,14 @@
+C:\Users\Alisson\source\repos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.exe
+C:\Users\Alisson\source\repos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.deps.json
+C:\Users\Alisson\source\repos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.runtimeconfig.json
+C:\Users\Alisson\source\repos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.dll
+C:\Users\Alisson\source\repos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.pdb
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.dll
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\refint\JogoAdivinhacao.dll
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.pdb
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\Alisson\source\repos\JogoAdivinhacao\obj\Debug\net8.0\ref\JogoAdivinhacao.dll
